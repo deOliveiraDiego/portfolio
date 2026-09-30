@@ -1,0 +1,8 @@
+.impeccable/config.local.json
+.impeccable/review/
+.impeccable/build/
+.impeccable/direction-payload.json
+.agents/
+.claude/
+.playwright-cli/
+.impeccable/questions/
